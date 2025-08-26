@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nomis\\source\\repos\\Class_Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C90958-5C20-48B9-899C-6995CDEB653C}|Class_Practice\\Class_Practice.csproj|c:\\users\\nomis\\source\\repos\\class_practice\\class_practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C90958-5C20-48B9-899C-6995CDEB653C}|Class_Practice\\Class_Practice.csproj|solutionrelative:class_practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C90958-5C20-48B9-899C-6995CDEB653C}|Class_Practice\\Class_Practice.csproj|c:\\users\\nomis\\source\\repos\\class_practice\\class_practice\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C90958-5C20-48B9-899C-6995CDEB653C}|Class_Practice\\Class_Practice.csproj|solutionrelative:class_practice\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C90958-5C20-48B9-899C-6995CDEB653C}|Class_Practice\\Class_Practice.csproj|c:\\users\\nomis\\source\\repos\\class_practice\\class_practice\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C90958-5C20-48B9-899C-6995CDEB653C}|Class_Practice\\Class_Practice.csproj|solutionrelative:class_practice\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Warrior.cs",
+              "DocumentMoniker": "C:\\Users\\nomis\\source\\repos\\Class_Practice\\Class_Practice\\Warrior.cs",
+              "RelativeDocumentMoniker": "Class_Practice\\Warrior.cs",
+              "ToolTip": "C:\\Users\\nomis\\source\\repos\\Class_Practice\\Class_Practice\\Warrior.cs",
+              "RelativeToolTip": "Class_Practice\\Warrior.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwDMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T05:50:10.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\nomis\\source\\repos\\Class_Practice\\Class_Practice\\Person.cs",
+              "RelativeDocumentMoniker": "Class_Practice\\Person.cs",
+              "ToolTip": "C:\\Users\\nomis\\source\\repos\\Class_Practice\\Class_Practice\\Person.cs",
+              "RelativeToolTip": "Class_Practice\\Person.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAswE0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T01:51:51.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nomis\\source\\repos\\Class_Practice\\Class_Practice\\Program.cs",
+              "RelativeDocumentMoniker": "Class_Practice\\Program.cs",
+              "ToolTip": "C:\\Users\\nomis\\source\\repos\\Class_Practice\\Class_Practice\\Program.cs*",
+              "RelativeToolTip": "Class_Practice\\Program.cs*",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T00:55:33.1Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
