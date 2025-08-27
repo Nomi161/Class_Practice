@@ -12,3 +12,4 @@ C:\Users\nomis\source\repos\Class_Practice\Class_Practice\obj\Debug\net8.0\refin
 C:\Users\nomis\source\repos\Class_Practice\Class_Practice\obj\Debug\net8.0\Class_Practice.pdb
 C:\Users\nomis\source\repos\Class_Practice\Class_Practice\obj\Debug\net8.0\Class_Practice.genruntimeconfig.cache
 C:\Users\nomis\source\repos\Class_Practice\Class_Practice\obj\Debug\net8.0\ref\Class_Practice.dll
+C:\Users\nomis\source\repos\Class_Practice\Class_Practice\obj\Debug\net8.0\Class_Practice.sourcelink.json

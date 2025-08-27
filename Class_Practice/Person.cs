@@ -15,6 +15,9 @@ namespace Class_Practice
         protected int hp;                      // 体力
         protected string info = "ただの村人";  // キャラ属性の特徴
 
+        // List 所持アイテム
+        public List<string> items = new List<string>();
+
         // 実体化した際に基本的な情報は入るように設計
         // 引数なしコンストラクタ
         public Person()
